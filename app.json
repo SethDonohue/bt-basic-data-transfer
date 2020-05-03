@@ -22,6 +22,10 @@
     "android": {
       "package": "sethdonohue.btdatatransfer",
       "versionCode": 1
-    }
+    },
+    "ios": {
+      "bundleIdentifier": "sethdonohue.btbasicdatatransfer"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }
